@@ -109,8 +109,8 @@ img {
   color: #fff;
   font-weight: 600;
   font-size: 1rem;
-  line-height: 1.25;
-  margin: 0 0 2rem;
+  line-height: 1;
+  margin: 0 0 10px;
 }
 
 /* Tabs */
@@ -318,8 +318,9 @@ img {
 }
 
 .btn-xl {
+  font-weight: 300;
   font-size: 2rem;
-  padding: 1.5rem 2.1rem;
+  padding: 1.5rem 2rem;
   text-transform: uppercase;
 }
 
